@@ -1,2 +1,2 @@
-# lifetrack-cpp
+# LifeTrack C++
 C++ implementation of Neutrino LifeTrack
